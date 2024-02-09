@@ -142,3 +142,8 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java
 /.idea/
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
